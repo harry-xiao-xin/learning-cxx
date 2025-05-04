@@ -4,6 +4,8 @@ set_warnings("all")
 set_kind("binary")
 set_languages("cxx17")
 
+
+
 -- 格式化输出
 target("exercise00")
     add_files("00_hello_world/main.cpp")
