@@ -36,7 +36,6 @@ struct D : public C {
 
 int main(int argc, char **argv) {
     constexpr auto MSG = "Replace '?' with its correct name.";
-
     A a;
     B b;
     C c;
